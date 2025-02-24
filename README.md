@@ -26,11 +26,6 @@
     <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kush0l&theme=codeSTACKr" />
     <!-- Divider GIF -->
     <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-    <!-- Top Languages Card -->
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kush0l&theme=codeSTACKr" />
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kush0l&theme=codeSTACKr" />
-    <!-- Divider GIF -->
-    <img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" width="100%">
     <!-- Stats Card -->
     <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kush0l&theme=codeSTACKr" />
     <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kush0l&theme=codeSTACKr" />
@@ -51,17 +46,4 @@
 
 
 
-<!-- Developer Quote Section -->
-<h2 align="center"> ✍️ Random Developer Quote </h2>
-<div align="center">
-    <img height="180em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
 
-
-
-
-
-<!-- Footer Wave Effect -->
-<p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Wave" />
-</p>
