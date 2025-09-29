@@ -2,7 +2,6 @@
 <h1 align="center"> About Me: </h1>
 <span style="color:#0000FF;"><b>CSE'25 |</b></span><br>
 <span style="color:#228B22;"><b>🌱 Learning Web Dev.</b></span><br>
-<span style="color:#FF69B4;"><b>👯 Student at ATME College of Engineering.</b></span><br>
 <span style="color:#8B008B;"><b>💬 Ask me about Web Development.</b></span><br>
 <span style="color:#FFD700;"><b>📫 How to reach me: <a href="https://www.linkedin.com/in/kush0l/" target="_blank">LinkedIn</a></b></span><br>
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%" />
